@@ -1,6 +1,6 @@
-Instagram Non-Followers Checker This Python script helps you find out:
+#Instagram Non-Followers Checker This Python script helps you find out:
 
-Who does not follow you back on Instagram.
+##Who does not follow you back on Instagram.
 
 Who you do not follow back.
 
@@ -20,7 +20,7 @@ After receiving the email from Instagram, download and unzip the data.
 
 Locate the following files in your Instagram data folder:
 
-followers.json
+`followers.json`
 
 following.json
 
@@ -28,7 +28,7 @@ Place these two files in the same folder as the Python script.
 
 Run the script using your terminal or code editor:
 
-bash Copy Edit python check_nonfollowers.py ✅ Output A list of users who don’t follow you back
+`bash Copy Edit python check_nonfollowers.py` ✅ Output A list of users who don’t follow you back
 
 A list of users you don’t follow back
 
