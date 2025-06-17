@@ -1,4 +1,4 @@
-# Instagram Non-Followers Checker
+# Instagram Followers Checker
 
 This Python script helps you find out:
 - Who **does not follow you back** on Instagram.
